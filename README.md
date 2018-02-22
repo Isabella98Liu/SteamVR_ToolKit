@@ -1,5 +1,5 @@
 # SteamVR_ToolKit
-Scripts, packages and materials for basic SteamVR development.
+👋Scripts, packages and materials for basic SteamVR development.🤖
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
@@ -11,9 +11,9 @@ Content : Basic input and control scripts for SteamVR controller
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-#### **controller_hand_animation.cs :** 
+#### 👉**controller_hand_animation.cs :** 
 
-**Add animation <u>*Fist Hold*</u> and *<u>Finger Point</u>*  to SteamVR Controller**
+Add animation <u>*Fist Hold*</u> and *<u>Finger Point</u>*  to SteamVR Controller
 
 ![FistHold](https://github.com/Isabella98Liu/SteamVR_ToolKit/blob/master/SteamVR_ToolKit_1.0/DescriptionGIF/FistHold.gif)
 
@@ -21,23 +21,23 @@ Content : Basic input and control scripts for SteamVR controller
 
 
 
-#### **touchpadHeadRotate.cs :** 
+#### 👉**touchpadHeadRotate.cs :** 
 
-**Touch touchpad in controller in order to control the rotation of the character**
+Touch touchpad in controller in order to control the rotation of the character
 
 ![Rotate](https://github.com/Isabella98Liu/SteamVR_ToolKit/blob/master/SteamVR_ToolKit_1.0/DescriptionGIF/Rotate.gif)
 
 
 
-#### **touchpadWalking.cs :**
+#### 👉**touchpadWalking.cs :**
 
- **Press the touchpad to control the forward and backward movement of the character**
+Press the touchpad to control the forward and backward movement of the character
 
 ![ForwardAndBackward](https://github.com/Isabella98Liu/SteamVR_ToolKit/blob/master/SteamVR_ToolKit_1.0/DescriptionGIF/Forward.gif)
 
-#### **gripDrag.cs :** 
+#### 👉**gripDrag.cs :** 
 
-**Drag and throw specific object**
+Drag and throw specific object
 
 ![DragAndThrow](https://github.com/Isabella98Liu/SteamVR_ToolKit/blob/master/SteamVR_ToolKit_1.0/DescriptionGIF/Throw.gif)
 
